@@ -23,5 +23,5 @@ An advanced fraud prevention and anti-money laundering (AML) detection system de
    ```
 3. Run the mock detection pipeline:
    ```bash
-   python src/main.py
+   python src/app.py
    ```
