@@ -15,7 +15,7 @@ An advanced fraud prevention and anti-money laundering (AML) detection system de
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/PrashantMotwani/money-muling-detector
    ```
 2. Install dependencies:
    ```bash
